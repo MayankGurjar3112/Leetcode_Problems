@@ -8,12 +8,14 @@ class Solution {
         for (int i = 0; i < n; i++) {
             if (nums[i] == 0) {
                 flag = false;
+                max = Math.max(max, sum1 + sum2);
                 sum2 = sum1;
                 sum1 = 0;
             } else sum1++;
-            max = Math.max(max, sum1 + sum2);
         }
 
+        max = Math.max(max, sum1 + sum2);
+        
         return flag ? max - 1 : max;
     }
 }
