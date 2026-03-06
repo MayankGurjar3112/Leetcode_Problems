@@ -96,6 +96,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
