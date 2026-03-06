@@ -15,11 +15,13 @@ My personal repository to track Leetcode progress.
 | [0394-decode-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0937-online-stock-span](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +54,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0937-online-stock-span) |
+| [2573-remove-nodes-from-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Data Stream
 |  |
 | ------- |
@@ -93,6 +96,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
