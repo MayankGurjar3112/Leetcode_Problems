@@ -9,6 +9,7 @@ My personal repository to track Leetcode progress.
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Stack
 |  |
 | ------- |
@@ -117,10 +118,12 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Union-Find
 |  |
 | ------- |
