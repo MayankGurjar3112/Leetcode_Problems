@@ -8,10 +8,10 @@ class Solution {
 
         Arrays.fill(memo, -2);
 
-        return solve(amount);
+        return dp(amount);
     }
 
-    private int solve(int rem) {
+    private int dp(int rem) {
         if (rem < 0) return -1;
         if (rem == 0) return 0;
         if (memo[rem] != -2) return memo[rem];
@@ -19,7 +19,7 @@ class Solution {
         int minCount = Integer.MAX_VALUE;
 
         for (int coin : coins) {
-            int res = solve(rem - coin);
+            int res = dp(rem - coin);
             if (res >= 0 && res < minCount) {
                 minCount = 1 + res;
             }
