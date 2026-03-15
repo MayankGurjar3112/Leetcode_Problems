@@ -58,6 +58,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0937-online-stock-span) |
+| [1728-fancy-sequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1728-fancy-sequence) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 ## Monotonic Stack
 |  |
@@ -152,6 +153,7 @@ My personal repository to track Leetcode progress.
 ## Math
 |  |
 | ------- |
+| [1728-fancy-sequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1728-fancy-sequence) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
@@ -161,4 +163,8 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+## Segment Tree
+|  |
+| ------- |
+| [1728-fancy-sequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1728-fancy-sequence) |
 <!---LeetCode Topics End-->
