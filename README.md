@@ -49,6 +49,7 @@ My personal repository to track Leetcode progress.
 | [1704-special-positions-in-a-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
 |  |
@@ -127,6 +128,7 @@ My personal repository to track Leetcode progress.
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Simulation
 |  |
 | ------- |
@@ -176,4 +178,5 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
