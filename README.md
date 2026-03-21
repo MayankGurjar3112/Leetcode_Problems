@@ -19,6 +19,7 @@ My personal repository to track Leetcode progress.
 | [0937-online-stock-span](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -120,6 +121,7 @@ My personal repository to track Leetcode progress.
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +169,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [1728-fancy-sequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1728-fancy-sequence) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
