@@ -43,6 +43,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0056-merge-intervals](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0130-surrounded-regions) |
+| [0287-find-the-duplicate-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0518-coin-change-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0518-coin-change-ii) |
@@ -60,6 +61,7 @@ My personal repository to track Leetcode progress.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Design
 |  |
@@ -127,6 +129,7 @@ My personal repository to track Leetcode progress.
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Matrix
@@ -177,6 +180,7 @@ My personal repository to track Leetcode progress.
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
