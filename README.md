@@ -59,6 +59,7 @@ My personal repository to track Leetcode progress.
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Bit Manipulation
 |  |
@@ -147,6 +148,7 @@ My personal repository to track Leetcode progress.
 | [3031-construct-product-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Simulation
 |  |
@@ -205,4 +207,9 @@ My personal repository to track Leetcode progress.
 | [3031-construct-product-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3031-construct-product-matrix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
+## Enumeration
+|  |
+| ------- |
+| [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
