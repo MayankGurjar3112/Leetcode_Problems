@@ -35,6 +35,7 @@ My personal repository to track Leetcode progress.
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Queue
 |  |
@@ -57,6 +58,7 @@ My personal repository to track Leetcode progress.
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [3031-construct-product-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
