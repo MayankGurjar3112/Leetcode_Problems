@@ -5,6 +5,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -18,6 +19,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0937-online-stock-span) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
@@ -32,6 +34,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
@@ -87,6 +90,7 @@ My personal repository to track Leetcode progress.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0937-online-stock-span) |
 | [2573-remove-nodes-from-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Data Stream
