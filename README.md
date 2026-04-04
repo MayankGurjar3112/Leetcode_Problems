@@ -37,6 +37,7 @@ My personal repository to track Leetcode progress.
 | [0402-remove-k-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -58,6 +59,7 @@ My personal repository to track Leetcode progress.
 | [0334-increasing-triplet-subsequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0518-coin-change-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [1020-longest-turbulent-subarray](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1020-longest-turbulent-subarray) |
+| [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
@@ -103,12 +105,14 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0041-first-missing-positive](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+| [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -219,6 +223,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0056-merge-intervals](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+| [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -242,4 +247,8 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Counting
+|  |
+| ------- |
+| [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 <!---LeetCode Topics End-->
