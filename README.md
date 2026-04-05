@@ -54,6 +54,7 @@ My personal repository to track Leetcode progress.
 | [0041-first-missing-positive](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0130-surrounded-regions) |
+| [0260-single-number-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -80,6 +81,7 @@ My personal repository to track Leetcode progress.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Design
