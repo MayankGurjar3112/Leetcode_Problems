@@ -41,6 +41,7 @@ My personal repository to track Leetcode progress.
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [3195-separate-black-and-white-balls](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -67,6 +68,7 @@ My personal repository to track Leetcode progress.
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
