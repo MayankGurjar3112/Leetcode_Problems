@@ -38,6 +38,7 @@ My personal repository to track Leetcode progress.
 | [0649-dota2-senate](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -213,6 +214,7 @@ My personal repository to track Leetcode progress.
 ## Math
 |  |
 | ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1728-fancy-sequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1728-fancy-sequence) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
