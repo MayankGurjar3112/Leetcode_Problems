@@ -82,6 +82,7 @@ My personal repository to track Leetcode progress.
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -187,6 +188,7 @@ My personal repository to track Leetcode progress.
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -259,4 +261,8 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3974-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
