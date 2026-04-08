@@ -4,8 +4,7 @@ class Solution {
             int idx = i[0];
 
             while (idx <= i[1]) {
-                long num = nums[idx];
-                nums[idx] = (int) ((num * i[3]) % 1000000007L);
+                nums[idx] = (int) (((long) nums[idx] * i[3]) % 1000000007L);
                 idx += i[2];
             }
         }
