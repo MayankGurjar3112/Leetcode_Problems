@@ -2,14 +2,14 @@ class Solution {
     public int brokenCalc(int s, int t) {
         int count = 0;
 
-        while (s != t) {
-            if (t % 2 == 0 && s < t) 
+        while (t > s) {
+            if (t % 2 == 0)
                 t /= 2;
-            else 
+            else
                 t++;
             count++;
         }
 
-        return count;
+        return count + (s - t);
     }
 }
