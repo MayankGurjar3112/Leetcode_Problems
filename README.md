@@ -83,6 +83,7 @@ My personal repository to track Leetcode progress.
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3974-xor-after-range-multiplication-queries-i) |
@@ -144,6 +145,7 @@ My personal repository to track Leetcode progress.
 | [0419-battleships-in-a-board](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0437-path-sum-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,6 +158,7 @@ My personal repository to track Leetcode progress.
 | [0322-coin-change](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0322-coin-change) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -186,6 +189,7 @@ My personal repository to track Leetcode progress.
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Simulation
@@ -215,6 +219,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0130-surrounded-regions) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
