@@ -66,6 +66,7 @@ My personal repository to track Leetcode progress.
 | [0419-battleships-in-a-board](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0518-coin-change-ii) |
+| [0665-non-decreasing-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0665-non-decreasing-array) |
 | [1020-longest-turbulent-subarray](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1020-longest-turbulent-subarray) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
