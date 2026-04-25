@@ -48,6 +48,7 @@ My personal repository to track Leetcode progress.
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Queue
@@ -84,6 +85,7 @@ My personal repository to track Leetcode progress.
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3031-construct-product-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3031-construct-product-matrix) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -139,6 +141,7 @@ My personal repository to track Leetcode progress.
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Ordered Set
 |  |
