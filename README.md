@@ -234,6 +234,7 @@ My personal repository to track Leetcode progress.
 | [0498-diagonal-traverse](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1971-incremental-memory-leak](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1971-incremental-memory-leak) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2388-replace-elements-in-an-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2388-replace-elements-in-an-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -272,6 +273,7 @@ My personal repository to track Leetcode progress.
 | [1303-minimum-moves-to-reach-target-score](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1728-fancy-sequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1728-fancy-sequence) |
+| [1971-incremental-memory-leak](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1971-incremental-memory-leak) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
