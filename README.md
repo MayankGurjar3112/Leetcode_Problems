@@ -85,6 +85,7 @@ My personal repository to track Leetcode progress.
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2103-find-all-groups-of-farmland](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2103-find-all-groups-of-farmland) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
+| [2388-replace-elements-in-an-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2388-replace-elements-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -137,6 +138,7 @@ My personal repository to track Leetcode progress.
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
+| [2388-replace-elements-in-an-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2388-replace-elements-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
@@ -231,6 +233,7 @@ My personal repository to track Leetcode progress.
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2388-replace-elements-in-an-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2388-replace-elements-in-an-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Dynamic Programming
