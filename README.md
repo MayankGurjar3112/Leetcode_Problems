@@ -170,6 +170,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -180,6 +181,7 @@ My personal repository to track Leetcode progress.
 | [0130-surrounded-regions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0419-battleships-in-a-board](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2103-find-all-groups-of-farmland) |
@@ -189,6 +191,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -345,6 +348,7 @@ My personal repository to track Leetcode progress.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Indexed Tree
