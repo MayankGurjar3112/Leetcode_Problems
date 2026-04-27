@@ -168,6 +168,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0437-path-sum-iii) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -176,6 +177,7 @@ My personal repository to track Leetcode progress.
 | [0130-surrounded-regions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0419-battleships-in-a-board](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0437-path-sum-iii) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2103-find-all-groups-of-farmland) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -184,6 +186,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0437-path-sum-iii) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -298,6 +301,7 @@ My personal repository to track Leetcode progress.
 | [0056-merge-intervals](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -337,6 +341,7 @@ My personal repository to track Leetcode progress.
 ## Binary Search Tree
 |  |
 | ------- |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
