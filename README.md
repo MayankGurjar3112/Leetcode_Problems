@@ -15,6 +15,7 @@ My personal repository to track Leetcode progress.
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3451-string-compression-iii) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
@@ -142,6 +143,7 @@ My personal repository to track Leetcode progress.
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1945-finding-the-users-active-minutes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1945-finding-the-users-active-minutes) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2388-replace-elements-in-an-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2388-replace-elements-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
@@ -326,6 +328,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
 ## Divide and Conquer
 |  |
