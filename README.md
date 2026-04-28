@@ -6,6 +6,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0394-decode-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0402-remove-k-digits) |
+| [0606-construct-string-from-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -174,6 +175,7 @@ My personal repository to track Leetcode progress.
 | [0437-path-sum-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -190,6 +192,7 @@ My personal repository to track Leetcode progress.
 | [0437-path-sum-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -205,6 +208,7 @@ My personal repository to track Leetcode progress.
 | [0437-path-sum-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
