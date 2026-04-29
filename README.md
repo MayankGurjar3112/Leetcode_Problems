@@ -178,6 +178,7 @@ My personal repository to track Leetcode progress.
 | [0606-construct-string-from-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -198,6 +199,7 @@ My personal repository to track Leetcode progress.
 | [0538-convert-bst-to-greater-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -216,6 +218,7 @@ My personal repository to track Leetcode progress.
 | [0538-convert-bst-to-greater-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
