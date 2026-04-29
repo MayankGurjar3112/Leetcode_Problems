@@ -184,6 +184,7 @@ My personal repository to track Leetcode progress.
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -201,6 +202,7 @@ My personal repository to track Leetcode progress.
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2103-find-all-groups-of-farmland) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -217,6 +219,7 @@ My personal repository to track Leetcode progress.
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
