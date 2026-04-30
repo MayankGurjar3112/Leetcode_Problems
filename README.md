@@ -394,4 +394,8 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
+## Graph Theory
+|  |
+| ------- |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
