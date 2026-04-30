@@ -158,6 +158,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
@@ -199,6 +200,7 @@ My personal repository to track Leetcode progress.
 | [0538-convert-bst-to-greater-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
+| [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0988-flip-equivalent-binary-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -236,6 +238,7 @@ My personal repository to track Leetcode progress.
 | [0322-coin-change](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0623-add-one-row-to-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
+| [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -397,5 +400,10 @@ My personal repository to track Leetcode progress.
 ## Graph Theory
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
