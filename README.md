@@ -77,6 +77,7 @@ My personal repository to track Leetcode progress.
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1325-path-with-maximum-probability](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
@@ -160,6 +161,7 @@ My personal repository to track Leetcode progress.
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
+| [1325-path-with-maximum-probability](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
@@ -401,9 +403,11 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
