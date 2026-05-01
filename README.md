@@ -128,6 +128,7 @@ My personal repository to track Leetcode progress.
 | [1728-fancy-sequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1728-fancy-sequence) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -166,6 +167,7 @@ My personal repository to track Leetcode progress.
 | [2413-smallest-number-in-infinite-set](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Ordered Set
 |  |
@@ -405,9 +407,11 @@ My personal repository to track Leetcode progress.
 | [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
+| [2678-design-graph-with-shortest-path-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
