@@ -305,6 +305,7 @@ My personal repository to track Leetcode progress.
 | [0322-coin-change](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [1020-longest-turbulent-subarray](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1020-longest-turbulent-subarray) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -406,6 +407,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
 ## Shortest Path
@@ -413,5 +415,6 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
 <!---LeetCode Topics End-->
