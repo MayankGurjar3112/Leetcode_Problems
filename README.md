@@ -53,6 +53,7 @@ My personal repository to track Leetcode progress.
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3195-separate-black-and-white-balls](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -349,6 +350,7 @@ My personal repository to track Leetcode progress.
 | [1728-fancy-sequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1728-fancy-sequence) |
 | [1971-incremental-memory-leak](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1971-incremental-memory-leak) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
