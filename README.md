@@ -9,6 +9,7 @@ My personal repository to track Leetcode progress.
 | [0394-decode-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0606-construct-string-from-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
+| [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -80,6 +81,7 @@ My personal repository to track Leetcode progress.
 | [0419-battleships-in-a-board](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0518-coin-change-ii) |
+| [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
 | [0665-non-decreasing-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0665-non-decreasing-array) |
 | [1020-longest-turbulent-subarray](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1020-longest-turbulent-subarray) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
@@ -161,6 +163,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0041-first-missing-positive](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0041-first-missing-positive) |
 | [0208-implement-trie-prefix-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -463,4 +466,5 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
