@@ -269,6 +269,7 @@ My personal repository to track Leetcode progress.
 | [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -356,6 +357,7 @@ My personal repository to track Leetcode progress.
 ## Backtracking
 |  |
 | ------- |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 ## Math
