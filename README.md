@@ -87,6 +87,7 @@ My personal repository to track Leetcode progress.
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1222-remove-covered-intervals](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1222-remove-covered-intervals) |
 | [1325-path-with-maximum-probability](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -389,6 +390,7 @@ My personal repository to track Leetcode progress.
 | [0056-merge-intervals](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
+| [1222-remove-covered-intervals](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1222-remove-covered-intervals) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
