@@ -12,6 +12,7 @@ My personal repository to track Leetcode progress.
 | [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [0829-subdomain-visit-count](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0829-subdomain-visit-count) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -85,6 +86,7 @@ My personal repository to track Leetcode progress.
 | [0518-coin-change-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
 | [0665-non-decreasing-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0665-non-decreasing-array) |
+| [0829-subdomain-visit-count](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0829-subdomain-visit-count) |
 | [1020-longest-turbulent-subarray](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1020-longest-turbulent-subarray) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -171,6 +173,7 @@ My personal repository to track Leetcode progress.
 | [0454-4sum-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0454-4sum-ii) |
 | [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [0829-subdomain-visit-count](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0829-subdomain-visit-count) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1945-finding-the-users-active-minutes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1945-finding-the-users-active-minutes) |
@@ -431,6 +434,7 @@ My personal repository to track Leetcode progress.
 ## Counting
 |  |
 | ------- |
+| [0829-subdomain-visit-count](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0829-subdomain-visit-count) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
