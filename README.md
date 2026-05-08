@@ -135,6 +135,7 @@ My personal repository to track Leetcode progress.
 | [4015-split-array-with-minimum-difference](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4015-split-array-with-minimum-difference) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4042-minimum-operations-to-transform-array) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4171-rotate-non-negative-elements](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4171-rotate-non-negative-elements) |
 | [4173-maximum-score-of-a-split](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4173-maximum-score-of-a-split) |
 ## Bit Manipulation
 |  |
@@ -343,6 +344,7 @@ My personal repository to track Leetcode progress.
 | [3234-double-modular-exponentiation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3234-double-modular-exponentiation) |
 | [3311-ant-on-the-boundary](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3311-ant-on-the-boundary) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4171-rotate-non-negative-elements](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4171-rotate-non-negative-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
