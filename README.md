@@ -343,6 +343,7 @@ My personal repository to track Leetcode progress.
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3234-double-modular-exponentiation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3234-double-modular-exponentiation) |
 | [3311-ant-on-the-boundary](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3311-ant-on-the-boundary) |
+| [3625-stone-removal-game](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3625-stone-removal-game) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4171-rotate-non-negative-elements](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4171-rotate-non-negative-elements) |
 ## Dynamic Programming
@@ -392,6 +393,7 @@ My personal repository to track Leetcode progress.
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3234-double-modular-exponentiation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3234-double-modular-exponentiation) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3625-stone-removal-game](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3625-stone-removal-game) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
