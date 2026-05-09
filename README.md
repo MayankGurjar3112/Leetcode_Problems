@@ -98,6 +98,7 @@ My personal repository to track Leetcode progress.
 | [1325-path-with-maximum-probability](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -305,6 +306,7 @@ My personal repository to track Leetcode progress.
 | [0287-find-the-duplicate-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3195-separate-black-and-white-balls](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
@@ -401,6 +403,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -413,6 +416,7 @@ My personal repository to track Leetcode progress.
 | [1222-remove-covered-intervals](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1222-remove-covered-intervals) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -428,6 +432,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3031-construct-product-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3031-construct-product-matrix) |
