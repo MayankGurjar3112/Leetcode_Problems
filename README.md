@@ -390,6 +390,7 @@ My personal repository to track Leetcode progress.
 | [1728-fancy-sequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1728-fancy-sequence) |
 | [1971-incremental-memory-leak](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1971-incremental-memory-leak) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
@@ -445,6 +446,7 @@ My personal repository to track Leetcode progress.
 ## Enumeration
 |  |
 | ------- |
+| [2541-sum-of-number-and-its-reverse](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
 ## Game Theory
 |  |
