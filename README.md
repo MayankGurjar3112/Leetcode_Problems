@@ -27,6 +27,7 @@ My personal repository to track Leetcode progress.
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3451-string-compression-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3451-string-compression-iii) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -416,6 +417,7 @@ My personal repository to track Leetcode progress.
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Segment Tree
 |  |
@@ -495,4 +497,8 @@ My personal repository to track Leetcode progress.
 | [0208-implement-trie-prefix-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
