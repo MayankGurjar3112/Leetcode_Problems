@@ -12,6 +12,7 @@ My personal repository to track Leetcode progress.
 | [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0829-subdomain-visit-count](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0829-subdomain-visit-count) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -308,6 +309,7 @@ My personal repository to track Leetcode progress.
 | [0287-find-the-duplicate-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
