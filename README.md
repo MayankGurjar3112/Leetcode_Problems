@@ -143,6 +143,7 @@ My personal repository to track Leetcode progress.
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4015-split-array-with-minimum-difference](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4015-split-array-with-minimum-difference) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4042-minimum-operations-to-transform-array) |
+| [4097-minimum-removals-to-achieve-target-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4097-minimum-removals-to-achieve-target-xor) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4171-rotate-non-negative-elements](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4171-rotate-non-negative-elements) |
 | [4173-maximum-score-of-a-split](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4173-maximum-score-of-a-split) |
@@ -154,6 +155,7 @@ My personal repository to track Leetcode progress.
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [4097-minimum-removals-to-achieve-target-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4097-minimum-removals-to-achieve-target-xor) |
 ## Design
 |  |
 | ------- |
@@ -377,6 +379,7 @@ My personal repository to track Leetcode progress.
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [4097-minimum-removals-to-achieve-target-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4097-minimum-removals-to-achieve-target-xor) |
 ## Sliding Window
 |  |
 | ------- |
