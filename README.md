@@ -52,6 +52,7 @@ My personal repository to track Leetcode progress.
 | [0402-remove-k-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1033-broken-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1033-broken-calculator) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -92,6 +93,7 @@ My personal repository to track Leetcode progress.
 | [0518-coin-change-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
 | [0665-non-decreasing-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0665-non-decreasing-array) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0829-subdomain-visit-count](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0829-subdomain-visit-count) |
 | [1020-longest-turbulent-subarray](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1020-longest-turbulent-subarray) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
@@ -334,6 +336,7 @@ My personal repository to track Leetcode progress.
 | [0304-range-sum-query-2d-immutable](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0419-battleships-in-a-board](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
+| [0825-max-increase-to-keep-city-skyline](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
