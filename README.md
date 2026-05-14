@@ -151,6 +151,7 @@ My personal repository to track Leetcode progress.
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4171-rotate-non-negative-elements](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4171-rotate-non-negative-elements) |
 | [4173-maximum-score-of-a-split](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4173-maximum-score-of-a-split) |
+| [4217-first-element-with-unique-frequency](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4217-first-element-with-unique-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,6 +210,7 @@ My personal repository to track Leetcode progress.
 | [2685-first-completely-painted-row-or-column](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4217-first-element-with-unique-frequency](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4217-first-element-with-unique-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -487,6 +489,7 @@ My personal repository to track Leetcode progress.
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
+| [4217-first-element-with-unique-frequency](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4217-first-element-with-unique-frequency) |
 | [4226-check-digitorial-permutation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4226-check-digitorial-permutation) |
 ## Divide and Conquer
 |  |
