@@ -12,6 +12,7 @@ My personal repository to track Leetcode progress.
 | [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0778-reorganize-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0829-subdomain-visit-count](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0829-subdomain-visit-count) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -52,6 +53,7 @@ My personal repository to track Leetcode progress.
 | [0402-remove-k-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0649-dota2-senate](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0778-reorganize-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1033-broken-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1033-broken-calculator) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
@@ -199,6 +201,7 @@ My personal repository to track Leetcode progress.
 | [0454-4sum-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0454-4sum-ii) |
 | [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0829-subdomain-visit-count) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -221,6 +224,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1325-path-with-maximum-probability](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
@@ -448,6 +452,7 @@ My personal repository to track Leetcode progress.
 | [0056-merge-intervals](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0147-insertion-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0778-reorganize-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0778-reorganize-string) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1222-remove-covered-intervals](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1222-remove-covered-intervals) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -492,6 +497,7 @@ My personal repository to track Leetcode progress.
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0829-subdomain-visit-count) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
