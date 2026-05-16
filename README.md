@@ -142,6 +142,7 @@ My personal repository to track Leetcode progress.
 | [3264-maximum-points-after-enemy-battles](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3311-ant-on-the-boundary](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3311-ant-on-the-boundary) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -234,6 +235,7 @@ My personal repository to track Leetcode progress.
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Ordered Set
 |  |
@@ -535,6 +537,7 @@ My personal repository to track Leetcode progress.
 | [1706-min-cost-to-connect-all-points](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Shortest Path
 |  |
 | ------- |
@@ -544,6 +547,7 @@ My personal repository to track Leetcode progress.
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
