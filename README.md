@@ -167,6 +167,7 @@ My personal repository to track Leetcode progress.
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [4097-minimum-removals-to-achieve-target-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4097-minimum-removals-to-achieve-target-xor) |
+| [4194-count-monobit-integers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4194-count-monobit-integers) |
 ## Design
 |  |
 | ------- |
@@ -496,6 +497,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [2541-sum-of-number-and-its-reverse](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
+| [4194-count-monobit-integers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4194-count-monobit-integers) |
 ## Game Theory
 |  |
 | ------- |
