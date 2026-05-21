@@ -27,6 +27,7 @@ My personal repository to track Leetcode progress.
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3451-string-compression-iii) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -143,6 +144,7 @@ My personal repository to track Leetcode progress.
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3311-ant-on-the-boundary](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3311-ant-on-the-boundary) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -224,6 +226,7 @@ My personal repository to track Leetcode progress.
 | [2634-minimum-common-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4217-first-element-with-unique-frequency](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4217-first-element-with-unique-frequency) |
@@ -572,6 +575,7 @@ My personal repository to track Leetcode progress.
 | [0208-implement-trie-prefix-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Counting Sort
 |  |
 | ------- |
