@@ -6,6 +6,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0388-longest-absolute-file-path](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0606-construct-string-from-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
@@ -34,6 +35,7 @@ My personal repository to track Leetcode progress.
 ## Stack
 |  |
 | ------- |
+| [0388-longest-absolute-file-path](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0937-online-stock-span](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0937-online-stock-span) |
@@ -279,6 +281,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0130-surrounded-regions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0388-longest-absolute-file-path](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0388-longest-absolute-file-path) |
 | [0404-sum-of-left-leaves](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0437-path-sum-iii) |
