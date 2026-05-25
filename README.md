@@ -23,6 +23,7 @@ My personal repository to track Leetcode progress.
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2001-jump-game-vii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -421,6 +422,7 @@ My personal repository to track Leetcode progress.
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
+| [2001-jump-game-vii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -430,6 +432,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [1020-longest-turbulent-subarray](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1020-longest-turbulent-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2001-jump-game-vii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Union-Find
 |  |
@@ -505,6 +508,7 @@ My personal repository to track Leetcode progress.
 | [0304-range-sum-query-2d-immutable](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2001-jump-game-vii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2001-jump-game-vii) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3031-construct-product-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3031-construct-product-matrix) |
 | [3311-ant-on-the-boundary](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3311-ant-on-the-boundary) |
