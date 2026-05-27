@@ -30,6 +30,7 @@ My personal repository to track Leetcode progress.
 | [3195-separate-black-and-white-balls](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3451-string-compression-iii) |
@@ -233,6 +234,7 @@ My personal repository to track Leetcode progress.
 | [2685-first-completely-painted-row-or-column](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
