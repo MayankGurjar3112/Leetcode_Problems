@@ -115,6 +115,7 @@ My personal repository to track Leetcode progress.
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1325-path-with-maximum-probability](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [1428-jump-game-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1428-jump-game-iii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -220,6 +221,7 @@ My personal repository to track Leetcode progress.
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1945-finding-the-users-active-minutes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1945-finding-the-users-active-minutes) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
@@ -368,6 +370,7 @@ My personal repository to track Leetcode progress.
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0793-swap-adjacent-in-lr-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -476,6 +479,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -492,6 +496,7 @@ My personal repository to track Leetcode progress.
 | [1222-remove-covered-intervals](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1222-remove-covered-intervals) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
