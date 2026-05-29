@@ -158,6 +158,7 @@ My personal repository to track Leetcode progress.
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
@@ -471,6 +472,7 @@ My personal repository to track Leetcode progress.
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3234-double-modular-exponentiation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3234-double-modular-exponentiation) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3625-stone-removal-game) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4226-check-digitorial-permutation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4226-check-digitorial-permutation) |
