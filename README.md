@@ -36,6 +36,7 @@ My personal repository to track Leetcode progress.
 | [3451-string-compression-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3451-string-compression-iii) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4056-longest-balanced-substring-ii) |
 ## Stack
 |  |
 | ------- |
@@ -240,6 +241,7 @@ My personal repository to track Leetcode progress.
 | [3405-count-the-number-of-special-characters-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
+| [4056-longest-balanced-substring-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4056-longest-balanced-substring-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4217-first-element-with-unique-frequency](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4217-first-element-with-unique-frequency) |
 ## Heap (Priority Queue)
@@ -527,6 +529,7 @@ My personal repository to track Leetcode progress.
 | [3492-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3492-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
 | [4015-split-array-with-minimum-difference](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4015-split-array-with-minimum-difference) |
+| [4056-longest-balanced-substring-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4056-longest-balanced-substring-ii) |
 | [4173-maximum-score-of-a-split](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4173-maximum-score-of-a-split) |
 ## Enumeration
 |  |
