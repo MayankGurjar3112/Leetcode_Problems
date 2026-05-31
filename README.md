@@ -9,6 +9,7 @@ My personal repository to track Leetcode progress.
 | [0388-longest-absolute-file-path](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0402-remove-k-digits) |
+| [0481-magical-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0481-magical-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0649-dota2-senate) |
@@ -371,6 +372,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0481-magical-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0481-magical-string) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
