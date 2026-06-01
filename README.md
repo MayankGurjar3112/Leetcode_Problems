@@ -285,6 +285,7 @@ My personal repository to track Leetcode progress.
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -313,6 +314,7 @@ My personal repository to track Leetcode progress.
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1428-jump-game-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1428-jump-game-iii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2103-find-all-groups-of-farmland) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -334,6 +336,7 @@ My personal repository to track Leetcode progress.
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -434,6 +437,7 @@ My personal repository to track Leetcode progress.
 | [0803-cheapest-flights-within-k-stops](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1020-longest-turbulent-subarray](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1020-longest-turbulent-subarray) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1716-maximum-non-negative-product-in-a-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1716-maximum-non-negative-product-in-a-matrix) |
 | [2001-jump-game-vii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2001-jump-game-vii) |
