@@ -75,6 +75,7 @@ My personal repository to track Leetcode progress.
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2245-destroying-asteroids](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2329-maximum-product-after-k-increments](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -136,6 +137,7 @@ My personal repository to track Leetcode progress.
 | [2103-find-all-groups-of-farmland](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2103-find-all-groups-of-farmland) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2245-destroying-asteroids](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2329-maximum-product-after-k-increments](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2388-replace-elements-in-an-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2388-replace-elements-in-an-array) |
@@ -508,6 +510,7 @@ My personal repository to track Leetcode progress.
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2245-destroying-asteroids](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
