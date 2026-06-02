@@ -104,6 +104,7 @@ My personal repository to track Leetcode progress.
 | [0334-increasing-triplet-subsequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0419-battleships-in-a-board](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0454-4sum-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0454-4sum-ii) |
+| [0477-total-hamming-distance](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0518-coin-change-ii) |
 | [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
@@ -180,6 +181,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0260-single-number-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
+| [0477-total-hamming-distance](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0477-total-hamming-distance) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -468,6 +470,7 @@ My personal repository to track Leetcode progress.
 ## Math
 |  |
 | ------- |
+| [0477-total-hamming-distance](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0477-total-hamming-distance) |
 | [1033-broken-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
