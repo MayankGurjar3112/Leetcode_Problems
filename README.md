@@ -145,6 +145,7 @@ My personal repository to track Leetcode progress.
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2634-minimum-common-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2634-minimum-common-value) |
@@ -238,6 +239,7 @@ My personal repository to track Leetcode progress.
 | [2413-smallest-number-in-infinite-set](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2634-minimum-common-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -478,6 +480,7 @@ My personal repository to track Leetcode progress.
 | [1971-incremental-memory-leak](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1971-incremental-memory-leak) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -560,6 +563,7 @@ My personal repository to track Leetcode progress.
 | [0829-subdomain-visit-count](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0829-subdomain-visit-count) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
 | [4217-first-element-with-unique-frequency](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4217-first-element-with-unique-frequency) |
