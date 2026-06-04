@@ -448,6 +448,7 @@ My personal repository to track Leetcode progress.
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4097-minimum-removals-to-achieve-target-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4097-minimum-removals-to-achieve-target-xor) |
 ## Sliding Window
 |  |
@@ -490,6 +491,7 @@ My personal repository to track Leetcode progress.
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3625-stone-removal-game) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4226-check-digitorial-permutation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4226-check-digitorial-permutation) |
 ## Binary Search
@@ -551,6 +553,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [2541-sum-of-number-and-its-reverse](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2541-sum-of-number-and-its-reverse) |
 | [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4194-count-monobit-integers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4194-count-monobit-integers) |
 ## Game Theory
 |  |
