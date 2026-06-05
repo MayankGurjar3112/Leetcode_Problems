@@ -35,6 +35,7 @@ My personal repository to track Leetcode progress.
 | [3408-count-the-number-of-special-characters-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3451-string-compression-iii) |
+| [3462-vowels-game-in-a-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4056-longest-balanced-substring-ii) |
@@ -488,6 +489,7 @@ My personal repository to track Leetcode progress.
 | [3026-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3026-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3234-double-modular-exponentiation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3234-double-modular-exponentiation) |
+| [3462-vowels-game-in-a-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3625-stone-removal-game](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3625-stone-removal-game) |
@@ -559,6 +561,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3462-vowels-game-in-a-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -623,4 +626,8 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
