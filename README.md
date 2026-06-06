@@ -154,6 +154,7 @@ My personal repository to track Leetcode progress.
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3031-construct-product-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3031-construct-product-matrix) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3234-double-modular-exponentiation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3234-double-modular-exponentiation) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
