@@ -17,6 +17,7 @@ My personal repository to track Leetcode progress.
 | [0778-reorganize-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0778-reorganize-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0829-subdomain-visit-count](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0829-subdomain-visit-count) |
+| [0841-shortest-distance-to-a-character](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -112,6 +113,7 @@ My personal repository to track Leetcode progress.
 | [0665-non-decreasing-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0665-non-decreasing-array) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0829-subdomain-visit-count](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0829-subdomain-visit-count) |
+| [0841-shortest-distance-to-a-character](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1020-longest-turbulent-subarray](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1020-longest-turbulent-subarray) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -386,6 +388,7 @@ My personal repository to track Leetcode progress.
 | [0481-magical-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0481-magical-string) |
 | [0768-partition-labels](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0841-shortest-distance-to-a-character) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
