@@ -142,6 +142,7 @@ My personal repository to track Leetcode progress.
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2245-destroying-asteroids](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2329-maximum-product-after-k-increments](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2329-maximum-product-after-k-increments) |
 | [2388-replace-elements-in-an-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2388-replace-elements-in-an-array) |
@@ -393,6 +394,7 @@ My personal repository to track Leetcode progress.
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2634-minimum-common-value) |
 | [3195-separate-black-and-white-balls](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
@@ -428,6 +430,7 @@ My personal repository to track Leetcode progress.
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1971-incremental-memory-leak](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1971-incremental-memory-leak) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2388-replace-elements-in-an-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2388-replace-elements-in-an-array) |
