@@ -87,6 +87,7 @@ My personal repository to track Leetcode progress.
 | [3264-maximum-points-after-enemy-battles](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3264-maximum-points-after-enemy-battles) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [4005-maximum-total-subarray-value-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4005-maximum-total-subarray-value-i) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4042-minimum-operations-to-transform-array) |
 ## Queue
 |  |
@@ -175,6 +176,7 @@ My personal repository to track Leetcode progress.
 | [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4005-maximum-total-subarray-value-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4005-maximum-total-subarray-value-i) |
 | [4015-split-array-with-minimum-difference](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4015-split-array-with-minimum-difference) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4042-minimum-operations-to-transform-array) |
 | [4097-minimum-removals-to-achieve-target-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4097-minimum-removals-to-achieve-target-xor) |
