@@ -56,6 +56,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0394-decode-string) |
+| [0795-k-th-symbol-in-grammar](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Greedy
@@ -190,6 +191,7 @@ My personal repository to track Leetcode progress.
 | [0260-single-number-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0477-total-hamming-distance) |
+| [0795-k-th-symbol-in-grammar](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -484,6 +486,7 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0477-total-hamming-distance) |
+| [0795-k-th-symbol-in-grammar](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1033-broken-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
