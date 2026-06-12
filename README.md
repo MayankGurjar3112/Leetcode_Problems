@@ -29,6 +29,7 @@ My personal repository to track Leetcode progress.
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3195-separate-black-and-white-balls](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -469,6 +470,7 @@ My personal repository to track Leetcode progress.
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2001-jump-game-vii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Union-Find
 |  |
 | ------- |
