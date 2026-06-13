@@ -71,6 +71,7 @@ My personal repository to track Leetcode progress.
 | [0825-max-increase-to-keep-city-skyline](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1033-broken-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1033-broken-calculator) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
+| [1247-decrease-elements-to-make-array-zigzag](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -122,6 +123,7 @@ My personal repository to track Leetcode progress.
 | [1171-shortest-path-in-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1222-remove-covered-intervals](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1222-remove-covered-intervals) |
+| [1247-decrease-elements-to-make-array-zigzag](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1325-path-with-maximum-probability](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1325-path-with-maximum-probability) |
 | [1428-jump-game-iii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1428-jump-game-iii) |
