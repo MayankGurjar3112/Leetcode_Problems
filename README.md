@@ -33,6 +33,7 @@ My personal repository to track Leetcode progress.
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3195-separate-black-and-white-balls](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -257,6 +258,7 @@ My personal repository to track Leetcode progress.
 | [2634-minimum-common-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -475,6 +477,7 @@ My personal repository to track Leetcode progress.
 | [2001-jump-game-vii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -524,6 +527,7 @@ My personal repository to track Leetcode progress.
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2634-minimum-common-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2634-minimum-common-value) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
@@ -589,6 +593,7 @@ My personal repository to track Leetcode progress.
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
 | [4217-first-element-with-unique-frequency](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4217-first-element-with-unique-frequency) |
 | [4226-check-digitorial-permutation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4226-check-digitorial-permutation) |
