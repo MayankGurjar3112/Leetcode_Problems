@@ -30,6 +30,7 @@ My personal repository to track Leetcode progress.
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2427-first-letter-to-appear-twice](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3195-separate-black-and-white-balls](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -199,6 +200,7 @@ My personal repository to track Leetcode progress.
 | [0795-k-th-symbol-in-grammar](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2427-first-letter-to-appear-twice](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [4097-minimum-removals-to-achieve-target-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4097-minimum-removals-to-achieve-target-xor) |
@@ -251,6 +253,7 @@ My personal repository to track Leetcode progress.
 | [2306-create-binary-tree-from-descriptions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2388-replace-elements-in-an-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2388-replace-elements-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
+| [2427-first-letter-to-appear-twice](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -591,6 +594,7 @@ My personal repository to track Leetcode progress.
 | [0829-subdomain-visit-count](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0829-subdomain-visit-count) |
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2427-first-letter-to-appear-twice](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
