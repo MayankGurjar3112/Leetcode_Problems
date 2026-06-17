@@ -44,6 +44,7 @@ My personal repository to track Leetcode progress.
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3931-process-string-with-special-operations-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3939-process-string-with-special-operations-ii) |
 | [4056-longest-balanced-substring-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4056-longest-balanced-substring-ii) |
 ## Stack
 |  |
@@ -455,6 +456,7 @@ My personal repository to track Leetcode progress.
 | [3447-clear-digits](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3447-clear-digits) |
 | [3625-stone-removal-game](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3625-stone-removal-game) |
 | [3931-process-string-with-special-operations-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3939-process-string-with-special-operations-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4171-rotate-non-negative-elements](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4171-rotate-non-negative-elements) |
 ## Dynamic Programming
