@@ -505,6 +505,7 @@ My personal repository to track Leetcode progress.
 | [0795-k-th-symbol-in-grammar](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1033-broken-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1728-fancy-sequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1728-fancy-sequence) |
 | [1971-incremental-memory-leak](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1971-incremental-memory-leak) |
