@@ -144,6 +144,7 @@ My personal repository to track Leetcode progress.
 | [1833-find-the-highest-altitude](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1945-finding-the-users-active-minutes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1945-finding-the-users-active-minutes) |
+| [1968-maximum-building-height](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1968-maximum-building-height) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -509,6 +510,7 @@ My personal repository to track Leetcode progress.
 | [1446-angle-between-hands-of-a-clock](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1728-fancy-sequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1728-fancy-sequence) |
+| [1968-maximum-building-height](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1968-maximum-building-height) |
 | [1971-incremental-memory-leak](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1971-incremental-memory-leak) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -552,6 +554,7 @@ My personal repository to track Leetcode progress.
 | [1468-check-if-n-and-its-double-exist](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1968-maximum-building-height](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1968-maximum-building-height) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2245-destroying-asteroids](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2245-destroying-asteroids) |
