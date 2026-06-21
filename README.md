@@ -82,6 +82,7 @@ My personal repository to track Leetcode progress.
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
+| [1961-maximum-ice-cream-bars](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2245-destroying-asteroids](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2245-destroying-asteroids) |
@@ -144,6 +145,7 @@ My personal repository to track Leetcode progress.
 | [1833-find-the-highest-altitude](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1833-find-the-highest-altitude) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
 | [1945-finding-the-users-active-minutes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1945-finding-the-users-active-minutes) |
+| [1961-maximum-ice-cream-bars](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1968-maximum-building-height) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -554,6 +556,7 @@ My personal repository to track Leetcode progress.
 | [1468-check-if-n-and-its-double-exist](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1961-maximum-ice-cream-bars](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1968-maximum-building-height) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -662,6 +665,7 @@ My personal repository to track Leetcode progress.
 ## Counting Sort
 |  |
 | ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Brainteaser
 |  |
