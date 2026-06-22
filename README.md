@@ -31,6 +31,7 @@ My personal repository to track Leetcode progress.
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3195-separate-black-and-white-balls](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
@@ -259,6 +260,7 @@ My personal repository to track Leetcode progress.
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2388-replace-elements-in-an-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2388-replace-elements-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2413-smallest-number-in-infinite-set) |
 | [2427-first-letter-to-appear-twice](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -610,6 +612,7 @@ My personal repository to track Leetcode progress.
 | [1140-distant-barcodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1140-distant-barcodes) |
 | [1297-maximum-number-of-balloons](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1297-maximum-number-of-balloons) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
