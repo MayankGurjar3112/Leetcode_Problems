@@ -194,6 +194,7 @@ My personal repository to track Leetcode progress.
 | [4005-maximum-total-subarray-value-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4005-maximum-total-subarray-value-i) |
 | [4015-split-array-with-minimum-difference](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4015-split-array-with-minimum-difference) |
 | [4042-minimum-operations-to-transform-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4042-minimum-operations-to-transform-array) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4097-minimum-removals-to-achieve-target-xor](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4097-minimum-removals-to-achieve-target-xor) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4171-rotate-non-negative-elements](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4171-rotate-non-negative-elements) |
@@ -277,6 +278,7 @@ My personal repository to track Leetcode progress.
 | [3408-count-the-number-of-special-characters-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
 | [4056-longest-balanced-substring-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4056-longest-balanced-substring-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4217-first-element-with-unique-frequency](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4217-first-element-with-unique-frequency) |
 ## Heap (Priority Queue)
@@ -579,6 +581,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [1728-fancy-sequence](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1728-fancy-sequence) |
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -595,6 +598,7 @@ My personal repository to track Leetcode progress.
 | [3849-equal-sum-grid-partition-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3849-equal-sum-grid-partition-i) |
 | [4015-split-array-with-minimum-difference](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4015-split-array-with-minimum-difference) |
 | [4056-longest-balanced-substring-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4056-longest-balanced-substring-ii) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4173-maximum-score-of-a-split](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4173-maximum-score-of-a-split) |
 ## Enumeration
 |  |
@@ -622,12 +626,14 @@ My personal repository to track Leetcode progress.
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3707-find-the-most-common-response](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3707-find-the-most-common-response) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4217-first-element-with-unique-frequency](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4217-first-element-with-unique-frequency) |
 | [4226-check-digitorial-permutation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4226-check-digitorial-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -681,4 +687,8 @@ My personal repository to track Leetcode progress.
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3462-vowels-game-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/4074-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
