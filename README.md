@@ -121,6 +121,7 @@ My personal repository to track Leetcode progress.
 | [0477-total-hamming-distance](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0477-total-hamming-distance) |
 | [0498-diagonal-traverse](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0542-01-matrix) |
 | [0648-replace-words](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0648-replace-words) |
 | [0665-non-decreasing-array](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0665-non-decreasing-array) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -387,6 +388,7 @@ My personal repository to track Leetcode progress.
 | [0322-coin-change](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
+| [0542-01-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0542-01-matrix) |
 | [0623-add-one-row-to-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
 | [0744-network-delay-time](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -435,6 +437,7 @@ My personal repository to track Leetcode progress.
 | [0304-range-sum-query-2d-immutable](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0419-battleships-in-a-board](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0498-diagonal-traverse](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0542-01-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
@@ -478,6 +481,7 @@ My personal repository to track Leetcode progress.
 | ------- |
 | [0322-coin-change](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1020-longest-turbulent-subarray](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1020-longest-turbulent-subarray) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
