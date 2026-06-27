@@ -35,6 +35,7 @@ My personal repository to track Leetcode progress.
 | [2427-first-letter-to-appear-twice](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3195-separate-black-and-white-balls](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3195-separate-black-and-white-balls) |
+| [3202-high-access-employees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3202-high-access-employees) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -175,6 +176,7 @@ My personal repository to track Leetcode progress.
 | [3031-construct-product-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3031-construct-product-matrix) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
+| [3202-high-access-employees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3202-high-access-employees) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3234-double-modular-exponentiation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3234-double-modular-exponentiation) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -273,6 +275,7 @@ My personal repository to track Leetcode progress.
 | [2634-minimum-common-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3202-high-access-employees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3202-high-access-employees) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -577,6 +580,7 @@ My personal repository to track Leetcode progress.
 | [2245-destroying-asteroids](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2245-destroying-asteroids) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3202-high-access-employees](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3202-high-access-employees) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
