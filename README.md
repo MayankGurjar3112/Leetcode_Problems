@@ -28,6 +28,7 @@ My personal repository to track Leetcode progress.
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2001-jump-game-vii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -158,6 +159,7 @@ My personal repository to track Leetcode progress.
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-find-all-groups-of-farmland](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2103-find-all-groups-of-farmland) |
 | [2107-find-unique-binary-string](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2107-find-unique-binary-string) |
 | [2245-destroying-asteroids](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2245-destroying-asteroids) |
