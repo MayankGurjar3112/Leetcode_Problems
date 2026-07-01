@@ -178,6 +178,7 @@ My personal repository to track Leetcode progress.
 | [2634-minimum-common-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3031-construct-product-matrix) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
@@ -306,6 +307,7 @@ My personal repository to track Leetcode progress.
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2678-design-graph-with-shortest-path-calculator) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Ordered Set
@@ -410,6 +412,7 @@ My personal repository to track Leetcode progress.
 | [2103-find-all-groups-of-farmland](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2103-find-all-groups-of-farmland) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
@@ -457,6 +460,7 @@ My personal repository to track Leetcode progress.
 | [2103-find-all-groups-of-farmland](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2103-find-all-groups-of-farmland) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2685-first-completely-painted-row-or-column) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3031-construct-product-matrix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -519,6 +523,7 @@ My personal repository to track Leetcode progress.
 | [0130-surrounded-regions](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [1706-min-cost-to-connect-all-points](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
@@ -564,6 +569,7 @@ My personal repository to track Leetcode progress.
 | [2512-longest-uploaded-prefix](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2512-longest-uploaded-prefix) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2634-minimum-common-value](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2634-minimum-common-value) |
+| [2914-find-the-safest-path-in-a-grid](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/MayankGurjar3112/Leetcode_Problems/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
